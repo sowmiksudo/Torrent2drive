@@ -5,7 +5,7 @@
 <img src="https://i.ibb.co/fCjXTTN/Torrent-to-drive.png" alt="Torrent-to-drive" border="0" width="600">
     <br>
     <br>
-<a href="https://colab.research.google.com/github/Ign0r3dH4x0r/Torrent2drive/blob/master/torrent-to-gdrive.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="OPEN IN GOOGLE COLAB"/></a>
+<a href="https://colab.research.google.com/github/Ign0r3dH4x0r/Torrent2drive/blob/master/torrent-to-gdrive" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="OPEN IN GOOGLE COLAB"/></a>
 </p>
 
 
