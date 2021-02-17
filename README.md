@@ -1,28 +1,28 @@
-# This whole repo is against Google Colab policy and you shouldn't be using it.
-> **Why are hardware resources such as T4 GPUs not available to me?**
-The best available hardware is prioritized for users who use Colaboratory interactively rather than for long-running computations. Users who use Colaboratory for long-running computations may be temporarily restricted in the type of hardware made available to them, and/or the duration that the hardware can be used for. We encourage users with high computational needs to use Colaboratory’s UI with a local runtime.
-Please note that using Colaboratory for cryptocurrency mining is disallowed entirely, and may result in being banned from using Colab altogether.
+ <p align="left">
+ <img src="https://img.shields.io/badge/MADE%20IN-BANGLADESH-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
+ </p>
+<p align="center">
+<img src="https://i.ibb.co/fCjXTTN/Torrent-to-drive.png" alt="Torrent-to-drive" border="0" width="600">
+    <br>
+    <br>
+<a href="https://colab.research.google.com/github/Ign0r3dH4x0r/Torrent2drive/blob/master/torrent-to-gdrive.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="OPEN IN GOOGLE COLAB"/></a>
+</p>
 
-<sub>Source: https://research.google.com/colaboratory/faq.html</sub>
 
-# Torrent To Google Drive Downloader
-Simple notebook to stream torrent files to Google Drive using Google Colab.
+##  
 
-<a href="https://colab.research.google.com/github/FKLC/Torrent-To-Google-Drive-Downloader/blob/master/Torrent_To_Google_Drive_Downloader.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+## WARNING!
+```
+THIS REPOSITORY DOESN'T MEET TERMS AND CONDITIONS GIVEN BY GOOGLE COLAB. I'M NOT RESPONSIBLE IF YOU USE THIS TOOLKIT, OR IF YOUR ACCOUNT GETS BANNED.
+```
+### HOW TO USE
 
-### Tutorial
-Click the badge which says 'Open in Colab' and follow directions there.
+    > CLICK ON THE `OPEN IN COLAB` BUTTON TO GET THIS TOOL.
 
-### What is the purpose of it?
-1. Because of Google Servers' speed, I downloaded 12GB of a file and the average speed was 60MBPS.
-2. Because it is in the cloud, by that I mean I can access it anywhere on my phone, tablet, etc without copying files around
+### BENEFITS
+1. ULTRA FAST SPEED! [ I GOT AROUND 50-60Mbps SPEED ]
+2. YOU CAN ACCESS MOVIES, DOCUMENTS AND OTHER FILES WITHOUT DOWNLOADING DIRECTLY FROM GOOGLE DRIVE.
 
-### Frequently Asked Questions
-1. **How to get more disk space**:
-
-    > Go to Runtime -> Change Runtime and give GPU as the Hardware Accelerator.  
-You will get around 384GB to download any torrent you want.
-
-2. **Downloading missing files without re-downloading whole torrent**: If somehow some files are missing try to re-download torrent. Fastresume will check files.
-
-For more questions check [existing issues](https://github.com/FKLC/Torrent-To-Google-Drive-Downloader/issues) or [open a new one](https://github.com/FKLC/Torrent-To-Google-Drive-Downloader/issues/new)
+### HOW TO GET MORE DISK SPACE
+    > GO TO RUNTIME > CHANGE RUNTIME AND SELECT `GPU` AS HARDWARE ACCELERATOR.   
+You will get around 384GB to download any torrent you want!
